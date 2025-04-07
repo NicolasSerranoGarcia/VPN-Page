@@ -16,8 +16,7 @@
 <em>Built with the tools and technologies:</em>
 
 <img src="https://img.shields.io/badge/CSS-663399.svg?style=flat&logo=CSS&logoColor=white" alt="CSS">
-![HTML](https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&logoColor=white)
-
+<img src="https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&logoColor=white" alt="HTML>
 
 </div>
 <br>
